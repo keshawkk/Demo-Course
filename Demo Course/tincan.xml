@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+    <activities>
+        <activity id="http://index.html" type="http://adlnet.gov/expapi/activities/course">
+            <name>Tin Can Demo Example</name>
+            <description lang="en-US">An</description>
+            <launch lang="en-us">index.html</launch>
+        </activity>
+    </activities>
+</tincan>

@@ -1,0 +1,12 @@
+//for the authkey you must use a username:password combination
+//Don't forget to add a forward slash at the end of the enedpoint
+
+
+lrsData = {
+	"authkey": "SXITK9NMAQ:d9KmqeqiBAp4ahTmzIZzu7kqM7XszAum7N4HxIsx",
+	"endpoint": "https://cloud.scorm.com/lrs/SXITK9NMAQ/",
+	"theLaunchURL": "story.html",
+	"activityID":"http://my_first_xapi_course"
+}
+
+
